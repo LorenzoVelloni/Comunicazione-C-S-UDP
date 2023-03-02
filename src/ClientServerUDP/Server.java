@@ -6,7 +6,7 @@ import java.net.InetAddress;
  *
  * @author LV
  */
-class Server
+public class Server
 {
   public static void main(String args[]) throws Exception 
   {
